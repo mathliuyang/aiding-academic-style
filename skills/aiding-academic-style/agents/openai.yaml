@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIDING 表达风格"
+  short_description: "从原文提炼解释展开与句间承接，适配论文、科研项目书、学术报告及润色"
+  default_prompt: "请使用 $aiding-academic-style，按 AIDING 团队的表达风格撰写或润色以下内容。"
